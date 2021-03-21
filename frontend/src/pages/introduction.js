@@ -26,9 +26,9 @@ const Introduction = ({ classes }) => {
     <div className={classes.container}>
       <h2>There's still a place for improvements:</h2>      
       <ul className={classes.list}>
-        <li>
-          <input id="custom-select" type="checkbox" disabled />
-          <label for="custom-select">Custom Select Performance</label>
+      <li>
+          <input id="custom-select-limit" type="checkbox" disabled />
+          <label for="custom-select-limit">Custom Select (Campaign) has limited results for now (Performance Issues)</label>
         </li>
         <li>
           <input id="prop-types" type="checkbox" disabled />
