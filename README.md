@@ -17,6 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### How to install and run
 
+1. `cd frontend`
 1. `npm install`
 2. `npm start`
 
